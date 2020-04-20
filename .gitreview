@@ -1,4 +1,4 @@
 [gerrit]
 host=gerrit.cnsuning.com
 port=29418
-project=v-tools.git
+project=q-tools.git
